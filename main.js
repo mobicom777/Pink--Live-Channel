@@ -15,5 +15,5 @@
 myPlayer = amp("azuremediaplayer", myOptions);
 
 myPlayer.src([
-    { src: "http://mobicom.streaming.mediaservices.windows.net/3d30369e-0658-4ff5-a79c-3659cde656a1/Kal Ho Naa Ho - Title Track Video  Shahrukh Khan, Saif, Preity.ism/manifest", type: "application/vnd.ms-sstr+xml", streamingFormats: ["SMOOTH", "HLS","HLS-V3", "HLS-V4"]}, 
+    { src: "http://mobicom.streaming.mediaservices.windows.net/743d9be7-bd1c-477f-bfd6-a1b96008ebd5/10 Best Places to Visit in Sri Lanka.ism/manifest", type: "application/vnd.ms-sstr+xml", streamingFormats: ["SMOOTH", "HLS","HLS-V3", "HLS-V4"]}, 
 ]);
